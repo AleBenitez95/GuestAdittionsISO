@@ -12,12 +12,12 @@ https://download.virtualbox.org/virtualbox/7.1.0/VBoxGuestAdditions_7.1.0.iso
 
 Luego abrimos VirtualBox y añadimos la ISO como unidad óptica
 
-![Captura1] (image/Cap1.png)
+![Captura1](image/Cap1.png)
 
 Una vez añadido, encendemos la máquina virtual y nos vamos a "Este equipo"
 
 
-![Captura2] (image/Cap2.png)
+![Captura2](image/Cap4.png)
 
 Instalamos la ISO y se reiniciará la maquina virtual.
 
